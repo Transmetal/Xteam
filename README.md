@@ -1,10 +1,5 @@
 ## Xteam tool
-<br>
-<p align="center">
-## Screenshot:
-<br>
-<p align="center">
-<img width="95%" src="https://github.com/xploitstech/Xteam/blob/main/Ig_information_gathering/Core_files/Xteamsce.png"\>
+
 ## Features:
 - Insta information gathering
 - Crack android lockscreen interfaces
@@ -34,7 +29,7 @@
 * `pkg install python`
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/xploitstech/Xteam`
+* `git clone https://github.com/Transmetal/Xteam`
 * `ls`
 * `cd Xteam`
 * `pip3 install -r requirements.txt`
@@ -47,21 +42,9 @@
 * `sudo apt install python`
 * `sudo apt install python2`
 * `sudo apt install git`
-* `git clone https://github.com/xploitstech/Xteam`
+* `git clone https://github.com/Transmetal/Xteam`
 * `ls`
 * `cd Xteam`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
 * `sudo bash Xteam.sh`
-  
-  ### do you want to support us?
-  <a href="https://www.paypal.com/donate/?hosted_button_id=LQCYCZELDZHQQ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="support us" style="height: 60px !important;width: 217px !important;" ></a>
-  
-
-
-<a href="https://www.buymeacoffee.com/xploitstech" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-  
-
-
-## Warning: 
-#### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
